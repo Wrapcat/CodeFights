@@ -1,5 +1,4 @@
-//*Write a function that returns the sum of two numbers.
-
+/*Write a function that returns the sum of two numbers.
 Example
 
 For param1 = 1 and param2 = 2, the output should be
@@ -21,10 +20,10 @@ Input/Output
 
     [output] integer
 
-    The sum of the two inputs.
-*//
+    The sum of the two inputs.*/
 
-//*Solution*//
+//Solution
+
 function add(param1, param2) {
     return param1 + param2;
 };
